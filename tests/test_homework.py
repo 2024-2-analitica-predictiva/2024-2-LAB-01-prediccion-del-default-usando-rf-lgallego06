@@ -45,7 +45,7 @@ METRICS = [
         "dataset": "test",
         "true_0": {"predicted_0": 6670, "predicted_1": None},
         "true_1": {"predicted_0": None, "predicted_1": 760},
-    },
+    }
 ]
 
 
